@@ -27,8 +27,10 @@ Es fundamental crear un fork.
 <img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/d8940584-efea-4ecd-8f36-cede775946fb" />
 
 ![img_2.png](img_2.png)
+
 Pregunta
 - Explica los pasos para que el código modificado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
+
 
 ### Apartado 3
 
