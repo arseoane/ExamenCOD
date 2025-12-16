@@ -44,6 +44,14 @@ Luego para comprobar, se usa:
 - Realiza otro cambio desde la web de tu repositorio en GitHub.
 - Utiliza pull para descargar los cambios realizados en tu repositorio.
 
+Hacemos el cambio:
+
+![img_5.png](img_5.png)
+
+Usamos el pull:
+
+![img_6.png](img_6.png)
+
 
 Pregunta
 - Explica los pasos dados para que el cambio realizado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
