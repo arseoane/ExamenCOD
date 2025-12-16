@@ -13,19 +13,28 @@
 
 - Clona este repositorio.
 - Modifica este Readme, poniendo tu nombre completo, realiza un `commit` con el mensaje *"Apartado 1"* y un `push`.
+
+Ponemos mi nombre completo:
+
 ![img.png](img.png)
 - 
 Pregunta 
 - ¿Qué paso es fundamental cuando clonamos un repositorio ajeno para que podamos subir nuestros propios commits? Explícalo y utiliza capturas de pantalla.
 
 Es fundamental crear un fork.
+
 ![img_1.png](img_1.png)
 
 ### Apartado 2
 
 - Realiza una modificación en el código en la web de tu repositorio en GitHub
 - Utiliza fetch para descargar los cambios realizados en tu repositorio.
+
+Hacemos la modificación desde la web:
+
 <img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/d8940584-efea-4ecd-8f36-cede775946fb" />
+
+Usamos git fetch para traer los cambios hechos en la web:
 
 ![img_2.png](img_2.png)
 
@@ -33,6 +42,7 @@ Pregunta
 - Explica los pasos para que el código modificado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
 
 Se ejecutan estos comandos:
+
 ![img_3.png](img_3.png)
 
 Luego para comprobar, se usa:
