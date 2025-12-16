@@ -32,11 +32,18 @@ Es fundamental crear un fork.
 Pregunta
 - Explica los pasos para que el código modificado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
 
+Se ejecutan estos comandos:
+![img_3.png](img_3.png)
+
+Luego para comprobar, se usa:
+
+![img_4.png](img_4.png)
 
 ### Apartado 3
 
 - Realiza otro cambio desde la web de tu repositorio en GitHub.
 - Utiliza pull para descargar los cambios realizados en tu repositorio.
+
 
 Pregunta
 - Explica los pasos dados para que el cambio realizado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
