@@ -16,6 +16,7 @@
 - 
 Pregunta 
 - ¿Qué paso es fundamental cuando clonamos un repositorio ajeno para que podamos subir nuestros propios commits? Explícalo y utiliza capturas de pantalla.
+
 Es fundamental crear un fork.
 ![img_1.png](img_1.png)
 
@@ -25,7 +26,7 @@ Es fundamental crear un fork.
 - Utiliza fetch para descargar los cambios realizados en tu repositorio.
 <img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/d8940584-efea-4ecd-8f36-cede775946fb" />
 
-
+![img_2.png](img_2.png)
 Pregunta
 - Explica los pasos para que el código modificado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
 
