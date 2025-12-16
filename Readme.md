@@ -66,3 +66,10 @@ Usamos el pull:
 Pregunta
 - Explica los pasos dados para que el cambio realizado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
 
+Ejecutamos estos tres comandos:
+
+![img_7.png](img_7.png)
+
+Verificamos que todo esté bien:
+
+![img_8.png](img_8.png)
