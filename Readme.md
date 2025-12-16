@@ -23,6 +23,7 @@ Es fundamental crear un fork.
 
 - Realiza una modificación en el código en la web de tu repositorio en GitHub
 - Utiliza fetch para descargar los cambios realizados en tu repositorio.
+<img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/d8940584-efea-4ecd-8f36-cede775946fb" />
 
 
 Pregunta
